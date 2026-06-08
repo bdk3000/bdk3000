@@ -31,6 +31,7 @@ traditional, cloud, and AI environments.
 |------|-----------|-------|
 | [recon-detection-gap](https://github.com/bdk3000/recon-detection-gap) | Network recon blind spot analysis | T1046, T1595 |
 | [privileged-logon-anomaly](https://github.com/bdk3000/privileged-logon-anomaly) | After-hours admin logon detection | T1078.002 |
+| [llm-attack-techniques](https://github.com/bdk3000/llm-attack-techniques) | LLM prompt injection — 7 techniques | LLM01, LLM08 |
 | [c2-dns-beacon-detection](https://github.com/bdk3000/c2-dns-beacon-detection) | DNS-based C2 beacon detection | T1071.004 |
 | [ntlm-enumeration-detection](https://github.com/bdk3000/ntlm-enumeration-detection) | NTLM enumeration burst detection | T1046, T1078 |
 | [aws-iam-priv-esc](https://github.com/bdk3000/aws-iam-priv-esc) | AWS IAM privilege escalation | T1078 |
