@@ -36,6 +36,7 @@ traditional, cloud, and AI environments.
 | [ntlm-enumeration-detection](https://github.com/bdk3000/ntlm-enumeration-detection) | NTLM enumeration burst detection | T1046, T1078 |
 | [aws-iam-priv-esc](https://github.com/bdk3000/aws-iam-priv-esc) | AWS IAM privilege escalation | T1078 |
 | [identity-impossible-travel](https://github.com/bdk3000/identity-impossible-travel) | Impossible travel detection | T1078 |
+| [sigma-rules](https://github.com/bdk3000/sigma-rules) | Vendor-neutral SIGMA detection rules | T1046, T1078 |
 
 ## Lab Environment
 
